@@ -1,8 +1,7 @@
 name: addiosognidigloria
 favicon: null
-layout_spectrum: 0.017024356173351407
-typography_spectrum: 0.9545262961182743
-title: addiosognidigloria
+layout_spectrum: 0.015137721784412861
+typography_spectrum: 0.8416358844842762
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8308284445665777
-  lightness: 0.9460755195468664
-  saturation: 0.8681510728783906
-  rhythmicContrast: 0.9468802297487855
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.0914482690859586
+  lightness: 0.22602403350174427
+  saturation: 0.9644050290808082
+  rhythmicContrast: 0.5669584597926587
 purpose: []
