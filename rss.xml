@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Natalino Dueville]]></title>
         <description><![CDATA[Natalino Dueville]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/addiosognidigloria/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 10:29:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 10:32:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/addiosognidigloria/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/891b8f83-2739-4acc-87ff-5f0201a03446.jpg">]]></description>
+            <link>https://thegrid.ai/addiosognidigloria/f85cc63a-5545-4e63-8ecc-d37bf161bad4/index.html</link>
+            <guid isPermaLink="false">f85cc63a-5545-4e63-8ecc-d37bf161bad4</guid>
+            <pubDate>Sun, 07 Feb 2016 10:31:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64fca4dd-5b72-47cd-8780-cb226a064807.jpg">]]></description>
-            <link>undefinede8621f9b-70e8-4518-8181-78ba8f1e2ea2/index.html</link>
+            <link>https://thegrid.ai/addiosognidigloria/e8621f9b-70e8-4518-8181-78ba8f1e2ea2/index.html</link>
             <guid isPermaLink="false">e8621f9b-70e8-4518-8181-78ba8f1e2ea2</guid>
             <pubDate>Sun, 07 Feb 2016 10:29:30 GMT</pubDate>
         </item>
