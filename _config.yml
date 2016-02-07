@@ -1,4 +1,4 @@
-name: addiosognidigloria
+name: Natalino Dueville
 favicon: null
 layout_spectrum: 0.017024356173351407
 typography_spectrum: 0.9545262961182743
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8308284445665777
-  lightness: 0.9460755195468664
-  saturation: 0.8681510728783906
-  rhythmicContrast: 0.9468802297487855
+    - '#000000'
+    - '#eaeaea'
+    - '#2c2c2c'
+    - '#b6b6b6'
+    - '#707070'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
